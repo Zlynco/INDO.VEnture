@@ -1,0 +1,14 @@
+D:\XI PPLG 1 F\PBT\Ticketing IDN\Ticketing IDN\bin\Debug\Ticketing IDN.exe.config
+D:\XI PPLG 1 F\PBT\Ticketing IDN\Ticketing IDN\bin\Debug\Ticketing IDN.exe
+D:\XI PPLG 1 F\PBT\Ticketing IDN\Ticketing IDN\bin\Debug\Ticketing IDN.pdb
+D:\XI PPLG 1 F\PBT\Ticketing IDN\Ticketing IDN\bin\Debug\Guna.UI2.dll
+D:\XI PPLG 1 F\PBT\Ticketing IDN\Ticketing IDN\obj\Debug\Ticketing IDN.csproj.AssemblyReference.cache
+D:\XI PPLG 1 F\PBT\Ticketing IDN\Ticketing IDN\obj\Debug\Ticketing IDN.csproj.SuggestedBindingRedirects.cache
+D:\XI PPLG 1 F\PBT\Ticketing IDN\Ticketing IDN\obj\Debug\Ticketing_IDN.Properties.Resources.resources
+D:\XI PPLG 1 F\PBT\Ticketing IDN\Ticketing IDN\obj\Debug\Ticketing IDN.csproj.GenerateResource.cache
+D:\XI PPLG 1 F\PBT\Ticketing IDN\Ticketing IDN\obj\Debug\Ticketing IDN.csproj.CoreCompileInputs.cache
+D:\XI PPLG 1 F\PBT\Ticketing IDN\Ticketing IDN\obj\Debug\Ticketing IDN.csproj.CopyComplete
+D:\XI PPLG 1 F\PBT\Ticketing IDN\Ticketing IDN\obj\Debug\Ticketing IDN.exe
+D:\XI PPLG 1 F\PBT\Ticketing IDN\Ticketing IDN\obj\Debug\Ticketing IDN.pdb
+D:\XI PPLG 1 F\PBT\Ticketing IDN\Ticketing IDN\obj\Debug\Ticketing_IDN.FormLogin.resources
+D:\XI PPLG 1 F\PBT\Ticketing IDN\Ticketing IDN\obj\Debug\Ticketing_IDN.FormRegister.resources
